@@ -1,5 +1,9 @@
 # ACM算法模板库
 
+> github 原生不支持 LaTeX 公式渲染  
+> 在线 LaTeX 渲染建议使用 [![](https://img.shields.io/badge/Chrome_Plugin-MathJax_Plugin_for_Github-gold)](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?utm_source=chrome-app-launcher-info-dialog)   
+> 加载测试：$\LaTeX$
+
 + 数据结构
     - [ ] 树状数组
     - [x] 线段树
