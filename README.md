@@ -3,7 +3,7 @@
 > Github 原生不支持 LaTeX 公式渲染  
 > 在线 LaTeX 渲染建议使用如下插件(二选一): 
 > + [![](https://img.shields.io/badge/Chrome_Plugin-MathJax_Plugin_for_Github-green)](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?utm_source=chrome-app-launcher-info-dialog)   
-> + [![](https://img.shields.io/badge/TamperMonkey-KaTeX_for_Github-green)](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?utm_source=chrome-app-launcher-info-dialog)   
+> + [![](https://img.shields.io/badge/TamperMonkey-KaTeX_for_Github-green)](https://github.com/Philogag/Tampermonkey-KaTeX_For_Github/blob/master/README.md)   
 > 
 > 加载测试：$\LaTeX$
 
